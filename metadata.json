@@ -1,0 +1,6 @@
+{
+  "name": "College Complaint Portal",
+  "description": "Modern and responsive college complaint management system for students and campus administration with end-to-end grievance tracking, role-based dashboards, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
